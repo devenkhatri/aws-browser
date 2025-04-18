@@ -32,11 +32,7 @@ This is a NextJS application that acts as an S3 file browser. It allows you to c
     # or
     pnpm install
     ```
-3.  **Configure environment variables:**
-
-    Create a `.env` file in the root directory (if you don't have it already).
-
-4.  **Run the development server:**
+3.  **Run the development server:**
 
     ```bash
     npm run dev
@@ -45,9 +41,7 @@ This is a NextJS application that acts as an S3 file browser. It allows you to c
     # or
     pnpm dev
     ```
-
-    Open [http://localhost:9002](http://localhost:9002) with your browser to see the result.
-5.  **Upload S3 Configuration**
+4.  **Upload S3 Configuration**
     *   Prepare your S3 configuration in JSON format. A sample structure is given in the application.
     *   Upload the JSON configuration file in the sidebar
 ## Sample JSON Structure
